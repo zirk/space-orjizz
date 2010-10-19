@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'space-orjizz' target in the 'space-orjizz' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
